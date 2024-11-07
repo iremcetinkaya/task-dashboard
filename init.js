@@ -1,23 +1,34 @@
 var weekdayTasks = [
-  ['wake up', '8:20 am', '8:40 am'],
-  ['drive', '8:40 am', '9:00 am'],
-  ['breakfast', '9:00 am', '9:30 am'],
-  ['read', '9:30 am', '10:30 am'],
-  ['work', '10:30 am', '1:30 pm'],
-  ['lunch', '1:30 pm', '2:00 pm'],
-  ['work', '2:00 pm', '6:00 pm'],
-  ['drive', '6:00 pm', '6:30 pm'],
-  ['dinner', '6:30 pm', '7:30 pm'],
-  ['work', '7:30 pm', '10:00 pm'],
-  ['chill or gym', '10:00 pm', '12:00 am'],
-  ['bed', '12:00 am', '1:00 am'],
-  ['sleep', '1:00 am', '8:30 am']
+  ['wake up', '9:50 am', '10:00 am'],
+  ['breakfast', '10:00 am', '10:30 am'],
+  ['coffee and socials', '10:30 am', '11:00 am'],
+  ['work', '11:00 am', '1:00 pm'],
+  ['lunch', '1:00 pm', '1:30 pm'],
+  ['work', '1:30 pm', '3:30 pm'],
+  ['dinner', '3:30 pm', '4:00 pm'],
+  ['clean or play', '4:00 pm', '5:00 pm'],
+  ['work', '5:00 pm', '9:30 pm'],
+  ['clean or tv', '9:30 pm', '10:30 pm'],
+  ['gym or chill', '10:30 pm', '12:00 am'],
+  ['shower', '12:00 am', '12:30 am'],
+  ['tv', '12:30 am', '1:30 am'],
+  ['sleep', '1:30 pm', '9:50 am']
 ]
 var weekendTasks = [
-  ['wake up', '9:50 am', '10:00 am'],
-  ['work', '10:00 am', '12:00 pm'],
-  ['chill', '12:00 pm', '2:00 am'],
-  ['sleep', '2:00 am', '9:50 am']
+  ['wake up', '09:50 am', '10:00 am'],
+  ['breakfast', '10:00 am', '10:30 am'],
+  ['coffee and socials', '10:30 am', '11:00 am'],
+  ['work', '11:00 am', '1:00 pm'],
+  ['lunch', '1:00 pm', '1:30 pm'],
+  ['work', '1:30 pm', '3:30 pm'],
+  ['dinner', '3:30 pm', '4:00 pm'],
+  ['clean or play', '4:00 pm', '5:00 pm'],
+  ['chill', '5:00 pm', '9:30 pm'],
+  ['clean or tv', '9:30 pm', '10:30 pm'],
+  ['chill', '10:30 pm', '12:00 am'],
+  ['shower', '12:00 am', '12:30 am'],
+  ['tv', '12:30 am', '1:30 am'],
+  ['sleep', '1:30 pm', '9:50 am']
 ]
 
 var tasks
