@@ -1,5 +1,5 @@
 var weekdayTasks = [
-  ['wake up', '8:30 am', '8:40 am'],
+  ['wake up', '8:20 am', '8:40 am'],
   ['drive', '8:40 am', '9:00 am'],
   ['breakfast', '9:00 am', '9:30 am'],
   ['read', '9:30 am', '10:30 am'],
