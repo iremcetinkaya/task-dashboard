@@ -12,7 +12,7 @@ var weekdayTasks = [
   ['gym or chill', '10:30 pm', '12:00 am'],
   ['shower', '12:00 am', '12:30 am'],
   ['tv', '12:30 am', '1:30 am'],
-  ['sleep', '1:30 pm', '9:50 am']
+  ['sleep', '1:30 am', '9:50 am']
 ]
 var weekendTasks = [
   ['wake up', '09:50 am', '10:00 am'],
